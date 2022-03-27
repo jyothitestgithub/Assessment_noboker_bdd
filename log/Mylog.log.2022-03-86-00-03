@@ -1,0 +1,57 @@
+[INFO] 2022-03-27 00:00:54,708 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:00:59,325 nobroker user_clicks_on_something_under_something_in_the_footer - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 00:01:04,342 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - Page contains all the available options 
+[INFO] 2022-03-27 00:01:04,345 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 00:01:04,348 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:02:03,314 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:02:07,929 nobroker user_clicks_on_something_under_something_in_the_footer - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 00:02:12,957 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - Page contains all the available options 
+[INFO] 2022-03-27 00:02:12,964 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 00:02:12,970 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:05:03,378 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:05:06,155 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-27 00:05:06,262 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 00:05:11,292 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-27 00:05:11,297 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:29:13,712 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:30:31,840 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:34:33,039 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:38:28,403 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:38:31,512 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:38:31,520 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:42:21,806 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:42:24,630 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:42:24,635 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:44:05,616 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:44:08,472 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:44:08,480 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:46:58,915 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:47:01,599 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:47:03,610 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Failed--
+[INFO] 2022-03-27 00:47:51,601 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:47:54,083 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:47:56,117 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Failed--
+[INFO] 2022-03-27 00:49:12,593 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:49:15,632 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:49:17,713 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Failed--
+[INFO] 2022-03-27 00:49:18,006 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:50:16,164 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:50:19,019 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:50:21,040 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Failed--
+[INFO] 2022-03-27 00:50:21,199 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:50:57,000 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:50:59,904 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:51:04,921 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Failed--
+[INFO] 2022-03-27 00:51:05,118 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:51:53,105 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:51:55,759 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:52:00,860 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 00:52:00,861 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:53:16,719 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:53:19,706 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:53:24,813 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 00:53:24,814 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 00:58:59,325 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 00:59:02,442 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 00:59:07,549 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 00:59:07,551 nobroker close_browser - --Exiting browser--

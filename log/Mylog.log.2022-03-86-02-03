@@ -1,0 +1,36 @@
+[INFO] 2022-03-27 02:09:59,470 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 02:10:02,274 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 02:10:02,367 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 02:10:04,379 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent Failed--
+[INFO] 2022-03-27 02:10:38,242 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 02:10:41,058 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 02:10:41,157 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 02:10:43,168 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent Failed--
+[INFO] 2022-03-27 02:12:05,256 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 02:12:07,914 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 02:12:07,995 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 02:12:13,012 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent Failed--
+[INFO] 2022-03-27 02:13:10,514 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 02:13:13,381 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 02:13:13,479 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 02:13:18,499 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent Failed--
+[INFO] 2022-03-27 02:15:33,348 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 02:15:36,255 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 02:15:36,363 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 02:15:41,438 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent Failed--
+[INFO] 2022-03-27 02:16:56,151 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 02:16:58,969 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 02:16:59,075 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 02:17:04,147 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - Page contains all the available options 
+[INFO] 2022-03-27 02:17:04,149 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 02:17:04,150 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 02:18:08,611 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 02:18:11,597 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 02:18:11,686 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 02:18:16,768 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent Failed--
+[INFO] 2022-03-27 02:18:47,218 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 02:18:50,140 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 02:18:50,248 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 02:18:55,333 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - Page contains all the available options 
+[INFO] 2022-03-27 02:18:55,336 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 02:18:55,337 nobroker close_browser - --Exiting browser--

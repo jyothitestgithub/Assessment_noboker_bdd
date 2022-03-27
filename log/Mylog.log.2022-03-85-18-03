@@ -1,0 +1,78 @@
+[INFO] 2022-03-26 18:30:12,231 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:30:15,218 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:30:15,433 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:30:15,448 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Failed--
+[INFO] 2022-03-26 18:33:18,066 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:33:21,510 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:33:21,604 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:33:21,610 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Failed--
+[INFO] 2022-03-26 18:36:23,991 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:36:27,316 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:36:27,426 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:36:27,441 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Failed--
+[INFO] 2022-03-26 18:37:29,451 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:37:32,602 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:37:32,795 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:37:32,802 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Failed--
+[INFO] 2022-03-26 18:37:32,976 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:40:03,933 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:40:07,128 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:40:07,291 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:40:12,301 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-26 18:40:12,302 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:41:03,288 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:41:06,373 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:41:06,481 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:41:11,495 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Failed--
+[INFO] 2022-03-26 18:41:11,800 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:41:46,650 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:41:49,773 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:41:49,886 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:41:54,916 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-26 18:41:54,921 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:43:25,009 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:43:28,444 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:43:28,715 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:43:33,729 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-26 18:43:33,730 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:43:56,898 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:44:00,118 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:44:00,289 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:44:05,319 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-26 18:44:05,324 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:44:54,053 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:44:56,897 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 18:44:57,079 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 18:45:02,100 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-26 18:45:02,105 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:45:05,424 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:45:08,376 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 18:45:08,575 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 18:46:50,589 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:46:53,850 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 18:46:53,993 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 18:49:41,106 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:49:43,864 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 18:49:44,121 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 18:49:44,620 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 18:49:44,741 nobroker user_enters_password - User entered password
+[INFO] 2022-03-26 18:49:44,842 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-26 18:49:45,586 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-26 18:49:45,587 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:50:31,397 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:50:34,340 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 18:50:34,474 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 18:55:04,796 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:55:07,694 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 18:55:07,810 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 18:56:11,510 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:56:14,027 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 18:56:14,294 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 18:56:14,831 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 18:56:15,079 nobroker user_enters_password - User entered password
+[INFO] 2022-03-26 18:56:15,191 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-26 18:56:16,017 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-26 18:56:16,021 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 18:59:41,941 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 18:59:44,901 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 18:59:45,087 nobroker user_enters_mobile_number - User entered mobile number

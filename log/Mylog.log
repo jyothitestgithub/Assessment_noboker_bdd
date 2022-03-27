@@ -1,0 +1,149 @@
+[INFO] 2022-03-27 07:42:59,273 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:43:02,510 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 07:43:02,656 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 07:43:07,738 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - Page contains all the available options 
+[INFO] 2022-03-27 07:43:07,742 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 07:43:07,747 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:44:54,195 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:44:57,244 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 07:44:57,443 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 07:45:02,610 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent Failed--
+[INFO] 2022-03-27 07:45:29,961 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:45:32,718 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 07:45:32,876 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 07:45:38,039 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - Page contains all the available options 
+[INFO] 2022-03-27 07:45:38,048 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 07:45:38,050 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:46:23,218 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:46:26,142 nobroker user_clicks_on_something_in_footer - User clicked on About us
+[INFO] 2022-03-27 07:46:31,231 nobroker verify_whether_text_something_is_displayed - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 07:46:31,237 nobroker verify_whether_text_something_is_displayed - --To check About Us  Passed--
+[INFO] 2022-03-27 07:46:31,241 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:46:35,033 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:46:37,583 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-27 07:46:40,609 nobroker user_clicks_on_blog - User clicked on Blog
+[INFO] 2022-03-27 07:46:42,631 nobroker verify_whether_title_contains_text_something - --To check noboker's blog Passed--
+[INFO] 2022-03-27 07:46:42,634 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:46:48,161 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:46:51,716 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-27 07:46:51,869 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 07:46:56,884 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-27 07:46:56,885 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:47:00,746 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:47:05,593 nobroker user_clicks_on_something_under_something_in_the_footer - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 07:47:10,611 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - Page contains all the available options 
+[INFO] 2022-03-27 07:47:10,612 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 07:47:10,614 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:47:14,456 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:47:17,859 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 07:47:22,948 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 07:47:22,951 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:47:26,745 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:47:29,613 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-27 07:47:29,893 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-27 07:47:35,297 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-27 07:47:35,417 nobroker user_enters_password - User entered password
+[INFO] 2022-03-27 07:47:35,737 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-27 07:47:36,155 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-27 07:47:36,157 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:47:40,484 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:47:45,960 nobroker user_clicks_on_something - User clicked on Post Free property ad
+[INFO] 2022-03-27 07:47:51,016 nobroker verify_that_text_something_is_displayed_in_same_page - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 07:47:51,016 nobroker verify_that_text_something_is_displayed_in_same_page - --To verify Post property Passed--
+[INFO] 2022-03-27 07:47:51,018 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:47:55,324 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:47:58,122 nobroker user_clicks_on_something_under_rent_in_footer - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 07:48:00,245 nobroker verify_whether_title_has_something_is_the_next_or_redirected_page - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 07:48:00,248 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:48:06,310 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:48:09,284 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-27 07:48:10,321 nobroker user_clicks_on_sellers_plan - User clicked on Seller Plans
+[INFO] 2022-03-27 07:48:12,340 nobroker verify_that_title_contains_text_something - --To check sellers plans Passed--
+[INFO] 2022-03-27 07:48:12,342 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:48:16,649 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:48:19,656 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 07:48:19,834 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 07:48:24,893 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - Page contains all the available options 
+[INFO] 2022-03-27 07:48:24,894 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 07:48:24,895 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:50:10,416 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:50:15,524 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:50:18,183 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-27 07:50:21,081 nobroker user_clicks_on_blog - User clicked on Blog
+[INFO] 2022-03-27 07:50:23,121 nobroker verify_whether_title_contains_text_something - --To check noboker's blog Passed--
+[INFO] 2022-03-27 07:50:23,123 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:50:25,444 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:50:30,575 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:50:36,083 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:51:13,849 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:51:16,861 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-27 07:51:17,950 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-27 07:51:23,261 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-27 07:51:23,588 nobroker user_enters_password - User entered password
+[INFO] 2022-03-27 07:51:23,836 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-27 07:51:24,704 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-27 07:51:24,709 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:51:27,282 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:51:32,163 nobroker user_clicks_on_something - User clicked on Post Free property ad
+[INFO] 2022-03-27 07:51:37,544 nobroker verify_that_text_something_is_displayed_in_same_page - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 07:51:37,544 nobroker verify_that_text_something_is_displayed_in_same_page - --To verify Post property Passed--
+[INFO] 2022-03-27 07:51:37,547 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:51:40,998 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:51:45,954 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:51:49,101 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-27 07:51:50,367 nobroker user_clicks_on_sellers_plan - User clicked on Seller Plans
+[INFO] 2022-03-27 07:51:52,391 nobroker verify_that_title_contains_text_something - --To check sellers plans Passed--
+[INFO] 2022-03-27 07:51:52,395 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:51:55,215 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:56:35,290 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:56:39,549 nobroker user_clicks_on_something_in_footer - User clicked on About us
+[INFO] 2022-03-27 07:56:44,591 nobroker verify_whether_text_something_is_displayed - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 07:56:44,594 nobroker verify_whether_text_something_is_displayed - --To check About Us  Passed--
+[INFO] 2022-03-27 07:56:44,595 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:56:51,967 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:56:56,109 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-27 07:57:00,541 nobroker user_clicks_on_blog - User clicked on Blog
+[INFO] 2022-03-27 07:57:02,563 nobroker verify_whether_title_contains_text_something - --To check noboker's blog Passed--
+[INFO] 2022-03-27 07:57:02,568 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:57:07,904 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:57:11,229 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-27 07:57:11,356 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 07:57:16,366 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-27 07:57:16,367 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:57:23,779 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:57:29,250 nobroker user_clicks_on_something_under_something_in_the_footer - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 07:57:34,280 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - Page contains all the available options 
+[INFO] 2022-03-27 07:57:34,281 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 07:57:34,286 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:57:42,531 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:57:45,599 nobroker user_clicks_on_something_under_something_under_pg_or_hostels - User clicked on PG in Powai
+[INFO] 2022-03-27 07:57:50,662 nobroker verify_that_text_something_is_displayed_on_the_redirected_page - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 07:57:50,665 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:57:58,533 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:58:01,357 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-27 07:58:01,576 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-27 07:58:07,038 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-27 07:58:07,126 nobroker user_enters_password - User entered password
+[INFO] 2022-03-27 07:58:07,473 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-27 07:58:07,940 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-27 07:58:07,942 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:58:15,106 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:58:20,218 nobroker user_clicks_on_something - User clicked on Post Free property ad
+[INFO] 2022-03-27 07:58:25,271 nobroker verify_that_text_something_is_displayed_in_same_page - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 07:58:25,271 nobroker verify_that_text_something_is_displayed_in_same_page - --To verify Post property Passed--
+[INFO] 2022-03-27 07:58:25,273 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:58:32,375 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:58:35,391 nobroker user_clicks_on_something_under_rent_in_footer - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 07:58:37,542 nobroker verify_whether_title_has_something_is_the_next_or_redirected_page - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 07:58:37,545 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:58:43,646 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:58:46,383 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-27 07:58:47,267 nobroker user_clicks_on_sellers_plan - User clicked on Seller Plans
+[INFO] 2022-03-27 07:58:49,280 nobroker verify_that_title_contains_text_something - --To check sellers plans Passed--
+[INFO] 2022-03-27 07:58:49,283 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 07:58:55,080 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 07:58:58,083 nobroker user_clicks_on_something_for_options - User clicked on Commercial
+[INFO] 2022-03-27 07:58:58,229 nobroker user_clicks_on_something_under_it - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 07:59:03,345 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - Page contains all the available options 
+[INFO] 2022-03-27 07:59:03,346 nobroker verify_that_text_something_is_displayed_in_the_title_of_the_page - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 07:59:03,346 nobroker close_browser - --Exiting browser--

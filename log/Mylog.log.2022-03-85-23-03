@@ -1,0 +1,13 @@
+[INFO] 2022-03-26 23:53:42,830 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 23:53:45,047 nobroker user_clicks_on_something_under_something_in_the_footer - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-26 23:53:50,176 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - --To check Flats for sale in T Nagar Failed--
+[INFO] 2022-03-26 23:54:54,264 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 23:54:56,612 nobroker user_clicks_on_something_under_something_in_the_footer - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-26 23:55:01,675 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - --To check Flats for sale in T Nagar Failed--
+[INFO] 2022-03-26 23:56:17,780 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 23:56:20,530 nobroker user_clicks_on_something_under_something_in_the_footer - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-26 23:56:25,544 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - --To check Flats for sale in T Nagar Failed--
+[INFO] 2022-03-26 23:57:53,296 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 23:57:56,170 nobroker user_clicks_on_something_under_something_in_the_footer - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-26 23:58:01,182 nobroker verify_that_text_something_is_displayed_in_the_redirected_page - --To check Flats for sale in T Nagar Failed--
+[INFO] 2022-03-26 23:58:01,383 nobroker close_browser - --Exiting browser--

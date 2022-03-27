@@ -1,0 +1,27 @@
+[INFO] 2022-03-26 15:01:57,784 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 15:01:59,559 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 15:01:59,753 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 15:02:00,863 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 15:02:00,936 nobroker user_enters_password - User entered password
+[INFO] 2022-03-26 15:02:01,009 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-26 15:02:02,105 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-26 15:02:02,105 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 15:07:50,176 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 15:07:52,189 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 15:07:52,395 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 15:07:52,856 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 15:07:52,952 nobroker user_enters_password - User entered password
+[INFO] 2022-03-26 15:07:53,059 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-26 15:07:54,576 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-26 15:07:54,577 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 15:52:40,547 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 15:52:44,764 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 15:52:46,753 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 15:52:47,024 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 15:52:47,520 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 15:52:47,672 nobroker user_enters_password - User entered password
+[INFO] 2022-03-26 15:52:47,800 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-26 15:52:48,556 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-26 15:52:48,557 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 15:53:53,970 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 15:58:45,167 nobroker setup - --Launching browser--

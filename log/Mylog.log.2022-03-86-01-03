@@ -1,0 +1,7 @@
+[INFO] 2022-03-27 01:29:06,733 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 01:29:09,494 nobroker user_clicks_on_something_under_rent_in_footer - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 01:29:09,497 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-27 01:31:26,690 nobroker setup - --Launching browser--
+[INFO] 2022-03-27 01:31:29,296 nobroker user_clicks_on_something_under_rent_in_footer - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 01:31:31,433 nobroker verify_whether_title_has_something_is_the_next_or_redirected_page - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 01:31:31,435 nobroker close_browser - --Exiting browser--

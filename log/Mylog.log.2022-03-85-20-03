@@ -1,0 +1,55 @@
+[INFO] 2022-03-26 20:04:51,750 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:04:54,559 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-26 20:04:55,399 nobroker user_clicks_on_sellers_plan - User clicked on Seller Plans
+[INFO] 2022-03-26 20:04:55,404 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:08:19,300 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:08:21,913 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-26 20:08:22,659 nobroker user_clicks_on_sellers_plan - User clicked on Seller Plans
+[INFO] 2022-03-26 20:08:24,689 nobroker verify_that_title_contains_text_something - --To check sellers plans Passed--
+[INFO] 2022-03-26 20:08:24,694 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:09:26,881 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:09:29,903 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 20:09:30,028 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 20:09:35,063 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-26 20:09:35,067 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:09:38,872 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:09:41,522 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 20:09:41,781 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 20:09:47,109 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 20:09:47,172 nobroker user_enters_password - User entered password
+[INFO] 2022-03-26 20:09:47,441 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-26 20:09:47,794 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-26 20:09:47,795 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:09:51,627 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:09:56,509 nobroker user_clicks_on_something - User clicked on Post Free property ad
+[INFO] 2022-03-26 20:10:01,571 nobroker verify_that_text_something_is_displayed_in_same_page - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-26 20:10:01,573 nobroker verify_that_text_something_is_displayed_in_same_page - --To verify Post property Passed--
+[INFO] 2022-03-26 20:10:01,574 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:10:05,384 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:10:08,094 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-26 20:10:08,825 nobroker user_clicks_on_sellers_plan - User clicked on Seller Plans
+[INFO] 2022-03-26 20:10:10,839 nobroker verify_that_title_contains_text_something - --To check sellers plans Passed--
+[INFO] 2022-03-26 20:10:10,843 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:20:32,647 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:20:35,715 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 20:20:35,833 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 20:20:40,856 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-26 20:20:40,860 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:20:44,139 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:20:46,698 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 20:20:46,835 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 20:20:52,156 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 20:20:52,220 nobroker user_enters_password - User entered password
+[INFO] 2022-03-26 20:20:52,477 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-26 20:20:52,749 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-26 20:20:52,750 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:20:56,029 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:21:00,567 nobroker user_clicks_on_something - User clicked on Post Free property ad
+[INFO] 2022-03-26 20:21:05,625 nobroker verify_that_text_something_is_displayed_in_same_page - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-26 20:21:05,627 nobroker verify_that_text_something_is_displayed_in_same_page - --To verify Post property Passed--
+[INFO] 2022-03-26 20:21:05,628 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 20:21:08,906 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 20:21:13,764 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-26 20:21:14,433 nobroker user_clicks_on_sellers_plan - User clicked on Seller Plans
+[INFO] 2022-03-26 20:21:16,444 nobroker verify_that_title_contains_text_something - --To check sellers plans Passed--
+[INFO] 2022-03-26 20:21:16,445 nobroker close_browser - --Exiting browser--

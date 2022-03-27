@@ -1,0 +1,27 @@
+[INFO] 2022-03-26 12:22:50,096 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:24:00,162 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:25:31,007 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:25:33,081 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 12:34:01,379 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:34:03,435 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 12:35:53,800 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:35:56,153 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 12:35:56,795 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 12:41:36,265 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:41:38,628 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 12:43:28,386 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:43:30,634 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 12:43:30,916 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 12:43:31,417 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 12:47:48,218 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:47:50,879 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 12:47:51,893 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 12:47:52,399 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 12:51:28,693 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:51:31,521 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 12:51:32,210 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 12:51:33,322 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 12:54:25,211 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 12:54:28,034 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 12:54:28,640 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 12:54:29,546 nobroker user_clicks_on_ive_password - User clicked on I've Password

@@ -1,0 +1,31 @@
+[INFO] 2022-03-26 21:36:33,647 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 21:36:36,082 nobroker user_clicks_on_something_in_footer - User clicked on About us
+[INFO] 2022-03-26 21:36:36,085 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 21:36:39,870 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 21:36:42,542 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Miscellaneous
+[INFO] 2022-03-26 21:36:42,670 nobroker user_clicks_on_something_under_something_in_footer - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-26 21:36:47,689 nobroker verify_that_text_something_is_displayed_in_next_page - --To verify Electrican service Passed--
+[INFO] 2022-03-26 21:36:47,693 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 21:36:51,048 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 21:36:53,628 nobroker user_clicks_on_login - User clicked Login
+[INFO] 2022-03-26 21:36:53,782 nobroker user_enters_mobile_number - User entered mobile number
+[INFO] 2022-03-26 21:36:59,100 nobroker user_clicks_on_ive_password - User clicked on I've Password
+[INFO] 2022-03-26 21:36:59,168 nobroker user_enters_password - User entered password
+[INFO] 2022-03-26 21:36:59,425 nobroker user_clicks_on_continue - User clicked on Continue
+[INFO] 2022-03-26 21:36:59,779 nobroker verify_that_text_is_displayed - --To verify Login functionality Passed--
+[INFO] 2022-03-26 21:36:59,781 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 21:37:03,052 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 21:37:07,613 nobroker user_clicks_on_something - User clicked on Post Free property ad
+[INFO] 2022-03-26 21:37:12,677 nobroker verify_that_text_something_is_displayed_in_same_page - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-26 21:37:12,678 nobroker verify_that_text_something_is_displayed_in_same_page - --To verify Post property Passed--
+[INFO] 2022-03-26 21:37:12,679 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 21:37:15,933 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 21:37:18,380 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-26 21:37:19,193 nobroker user_clicks_on_sellers_plan - User clicked on Seller Plans
+[INFO] 2022-03-26 21:37:21,205 nobroker verify_that_title_contains_text_something - --To check sellers plans Passed--
+[INFO] 2022-03-26 21:37:21,208 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 21:39:59,570 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 21:40:02,822 nobroker user_clicks_on_something_in_footer - User clicked on About us
+[INFO] 2022-03-26 21:40:07,869 nobroker verify_whether_text_something_is_displayed - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-26 21:40:07,873 nobroker verify_whether_text_something_is_displayed - --To check About Us  Passed--
+[INFO] 2022-03-26 21:40:07,875 nobroker close_browser - --Exiting browser--

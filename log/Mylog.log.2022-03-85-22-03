@@ -1,0 +1,10 @@
+[INFO] 2022-03-26 22:03:18,668 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 22:03:21,272 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-26 22:03:53,048 nobroker user_clicks_on_blog - User clicked on Blog
+[INFO] 2022-03-26 22:03:55,074 nobroker verify_whether_title_contains_text_something - --To check noboker's blog Passed--
+[INFO] 2022-03-26 22:03:55,078 nobroker close_browser - --Exiting browser--
+[INFO] 2022-03-26 22:04:23,833 nobroker setup - --Launching browser--
+[INFO] 2022-03-26 22:04:26,891 nobroker user_clicks_on_menu - User clicked on Menu
+[INFO] 2022-03-26 22:04:29,688 nobroker user_clicks_on_blog - User clicked on Blog
+[INFO] 2022-03-26 22:04:31,722 nobroker verify_whether_title_contains_text_something - --To check noboker's blog Passed--
+[INFO] 2022-03-26 22:04:31,728 nobroker close_browser - --Exiting browser--
